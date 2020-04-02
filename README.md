@@ -6,6 +6,9 @@ The focus being on smooth controls that feel like a tank game, but still harness
 
 ## The Loop
 Get in Tank
+
 Aim towards the Enemy
+
 KABOOM
+
 Repeat
